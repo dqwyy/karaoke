@@ -11,20 +11,19 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: F:/Workspace/karaoke/故鄉的門口埕/故鄉的門口埕.mp4
-Video File: F:/Workspace/karaoke/故鄉的門口埕/故鄉的門口埕.mp4
+Audio File: 故鄉的門口埕.mp4
+Video File: 故鄉的門口埕.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 3
-Active Line: 8
-Video Position: 1849
+Active Line: 3
+Video Position: 2737
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: Top,Yunlin Sans,130,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,1,170,10,240,1
-Style: Bottom,Yunlin Sans,130,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,3,10,170,100,1
+Style: Top,Yunlin Sans,130,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,1,170,10,245,1
+Style: Bottom,Yunlin Sans,130,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.5,3,10,170,90,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
