@@ -14,8 +14,10 @@ Audio File: in.mp4
 Video File: in.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Active Line: 46
-Video Position: 5366
+Video Zoom Percent: 0.500000
+Scroll Position: 15
+Active Line: 22
+Video Position: 2424
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,7 +49,7 @@ Dialogue: 0,0:01:06.94,0:01:14.02,Top,,0,0,0,,每分每秒陪伴我
 Dialogue: 0,0:01:10.44,0:01:17.81,Bottom,,0,0,0,,潮州廣電紅桃粿
 Dialogue: 0,0:01:14.02,0:01:20.80,Top,,0,0,0,,老婆日日攏呾伊愛買好買鮮
 Dialogue: 0,0:01:17.81,0:01:24.45,Bottom,,0,0,0,,市場上咯一日幾回惦拼毋例
-Dialogue: 0,0:01:20.80,0:01:28.30,Top,,0,0,0,,我呾HONEY汝咯甭用這辛苦在排比
+Dialogue: 0,0:01:20.80,0:01:28.30,Top,,0,0,0,,我呾{\fnArial Narrow}HONEY{\fn}汝咯甭用這辛苦在排比
 Dialogue: 0,0:01:24.45,0:01:31.82,Bottom,,0,0,0,,潮州廣電有個紅桃粿好乞汝買便
 Dialogue: 0,0:01:28.30,0:01:36.00,Top,,0,0,0,,老婆呾平臺這㩼紅桃粿有乜優勢
 Dialogue: 0,0:01:31.82,0:01:39.25,Bottom,,0,0,0,,個銀秒殺大牌五折我驚汝買毋例
