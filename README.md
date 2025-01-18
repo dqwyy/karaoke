@@ -1,4 +1,4 @@
 # karaoke
 ```
-ffmpeg -i video.mp4 -vf "ass=subtitle.ass" out.mp4
+ffmpeg -i in.mp4 -vf "ass=sub.ass" out.mp4
 ```
